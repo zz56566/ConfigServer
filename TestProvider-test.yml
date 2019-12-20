@@ -1,6 +1,6 @@
 #1端口
 server:
-  port: 8004
+  port: 8005
 
 #3连接数据库 jpa
 spring:
